@@ -11,9 +11,26 @@
 }
 .box_2 {
 }
+.ellipse {
+}
+._形状 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#CCCCCC;
+  text-align:center;
+  line-height:normal;
+}
 .image {
 }
 .button {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.link_button {
+  color:#169BD5;
 }
 ._一级标题 {
   font-family:'ArialMT', 'Arial';
@@ -63,7 +80,59 @@
 ._文本段落 {
   text-align:left;
 }
+.line {
+}
+.arrow {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.list_box {
+  color:#000000;
+  text-align:left;
+}
+.checkbox {
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
 ._流程形状 {
 }
+.html_button {
+  text-align:center;
+}
+.tree_node {
+  text-align:left;
+}
+.menu_item {
+}
+._连接线 {
+}
+.sticky_1 {
+  text-align:left;
+}
+.sticky_2 {
+  text-align:left;
+}
+.sticky_4 {
+  text-align:left;
+}
+.marker {
+  color:#FFFFFF;
+}
+._图片 {
+}
 .icon {
+}
+.flow_shape {
 }
